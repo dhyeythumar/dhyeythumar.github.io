@@ -1,0 +1,1 @@
+//! - Server should be configured to handle the req cos only index.html file is returned for all req
